@@ -1,0 +1,7 @@
+This repository will contain scripts, to help beginners developers. 
+Is under construction.
+
+in Portuguese-BR:
+
+Este repositório irá conter scripts, para ajudar os desenvolvedores iniciantes.
+Está em construção.
